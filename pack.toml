@@ -1,0 +1,13 @@
+name = "Ars Colonies"
+author = "TheRealFruitGod"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fe0e91a578fd9ed591924a8942da8ba09189d1a457d49a86fc96595934633a16"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"
