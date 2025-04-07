@@ -1,0 +1,13 @@
+name = "More Enchantments"
+filename = "MoreEnchantments_MC_1.20.1_Vers.1.4.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9556f4ae75fe81152e38f1080b012a999cde726f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4799591
+project-id = 447835
