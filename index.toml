@@ -386,11 +386,6 @@ hash = "ed4a753bf8e8f38ab2ce728c40dfb6518a8890ec0fb889724e37607f03dc93f4"
 metafile = true
 
 [[files]]
-file = "mods/small-ships.pw.toml"
-hash = "a2641c9187ec8485df45b2fb25c901f835da50ffe4d9601e4ecc81fc9036eb55"
-metafile = true
-
-[[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "a061b4f98461fc38b4ff6495b5e3a9b8708e9d87333c2cbb29e6b265053a5abe"
 metafile = true
