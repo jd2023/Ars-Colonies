@@ -1,2 +1,2 @@
 # Ars-Colonies
-Minecraft Modpack
+Minecraft Modpack 1.0
