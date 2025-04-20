@@ -1,4 +1,4 @@
-name = "ArsColonies"
+name = "Ars Colonies"
 author = "TheRealFruitGod"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f58ff0463028deab7bec9172e51284d00cb7874fb5d2fd3827a800c4e7e52268"
+hash = "7868a91675f19383a593c26c68912f9f50e346f6f1dbb5c62eca16ead8174ea3"
 
 [versions]
 forge = "47.4.0"
