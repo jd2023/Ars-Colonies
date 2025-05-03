@@ -36,6 +36,11 @@ hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
 
 [[files]]
+file = "mods/ars-additions.pw.toml"
+hash = "0bc8fe3b019589fd473d9c1aacd1b5108fa7b2ee8bf9d0521158f950291c3dee"
+metafile = true
+
+[[files]]
 file = "mods/ars-elemental.pw.toml"
 hash = "1ee1ee248c2061162602391279e2e13b878e5fd28679a74f68382b5f8f54cdc3"
 metafile = true
@@ -368,6 +373,11 @@ metafile = true
 [[files]]
 file = "mods/openblocks-elevator.pw.toml"
 hash = "9d66478fde6c978312f93734d481bcb9ae9c49b74cb4538fce58c65ef15d593c"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "dec2bc011d4ca1d451aaa3eea477f13366bfb13beba0716018f47d9331a50d8e"
 metafile = true
 
 [[files]]
